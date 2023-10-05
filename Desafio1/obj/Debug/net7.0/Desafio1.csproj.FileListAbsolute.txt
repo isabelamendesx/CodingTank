@@ -1,0 +1,11 @@
+/home/isa/RiderProjects/Desafio1/Desafio1/bin/Debug/net7.0/Desafio1.deps.json
+/home/isa/RiderProjects/Desafio1/Desafio1/bin/Debug/net7.0/Desafio1.dll
+/home/isa/RiderProjects/Desafio1/Desafio1/bin/Debug/net7.0/Desafio1.pdb
+/home/isa/RiderProjects/Desafio1/Desafio1/obj/Debug/net7.0/Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/isa/RiderProjects/Desafio1/Desafio1/obj/Debug/net7.0/Desafio1.AssemblyInfoInputs.cache
+/home/isa/RiderProjects/Desafio1/Desafio1/obj/Debug/net7.0/Desafio1.AssemblyInfo.cs
+/home/isa/RiderProjects/Desafio1/Desafio1/obj/Debug/net7.0/Desafio1.csproj.CoreCompileInputs.cache
+/home/isa/RiderProjects/Desafio1/Desafio1/obj/Debug/net7.0/Desafio1.dll
+/home/isa/RiderProjects/Desafio1/Desafio1/obj/Debug/net7.0/refint/Desafio1.dll
+/home/isa/RiderProjects/Desafio1/Desafio1/obj/Debug/net7.0/Desafio1.pdb
+/home/isa/RiderProjects/Desafio1/Desafio1/obj/Debug/net7.0/ref/Desafio1.dll
