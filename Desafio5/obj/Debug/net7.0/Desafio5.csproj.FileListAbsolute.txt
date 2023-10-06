@@ -1,0 +1,11 @@
+/home/isa/CodingTank/CodingTank/Desafio5/bin/Debug/net7.0/Desafio5.deps.json
+/home/isa/CodingTank/CodingTank/Desafio5/bin/Debug/net7.0/Desafio5.dll
+/home/isa/CodingTank/CodingTank/Desafio5/bin/Debug/net7.0/Desafio5.pdb
+/home/isa/CodingTank/CodingTank/Desafio5/obj/Debug/net7.0/Desafio5.GeneratedMSBuildEditorConfig.editorconfig
+/home/isa/CodingTank/CodingTank/Desafio5/obj/Debug/net7.0/Desafio5.AssemblyInfoInputs.cache
+/home/isa/CodingTank/CodingTank/Desafio5/obj/Debug/net7.0/Desafio5.AssemblyInfo.cs
+/home/isa/CodingTank/CodingTank/Desafio5/obj/Debug/net7.0/Desafio5.csproj.CoreCompileInputs.cache
+/home/isa/CodingTank/CodingTank/Desafio5/obj/Debug/net7.0/Desafio5.dll
+/home/isa/CodingTank/CodingTank/Desafio5/obj/Debug/net7.0/refint/Desafio5.dll
+/home/isa/CodingTank/CodingTank/Desafio5/obj/Debug/net7.0/Desafio5.pdb
+/home/isa/CodingTank/CodingTank/Desafio5/obj/Debug/net7.0/ref/Desafio5.dll

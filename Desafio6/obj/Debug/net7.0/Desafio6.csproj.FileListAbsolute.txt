@@ -1,0 +1,11 @@
+/home/isa/CodingTank/CodingTank/Desafio6/bin/Debug/net7.0/Desafio6.deps.json
+/home/isa/CodingTank/CodingTank/Desafio6/bin/Debug/net7.0/Desafio6.dll
+/home/isa/CodingTank/CodingTank/Desafio6/bin/Debug/net7.0/Desafio6.pdb
+/home/isa/CodingTank/CodingTank/Desafio6/obj/Debug/net7.0/Desafio6.GeneratedMSBuildEditorConfig.editorconfig
+/home/isa/CodingTank/CodingTank/Desafio6/obj/Debug/net7.0/Desafio6.AssemblyInfoInputs.cache
+/home/isa/CodingTank/CodingTank/Desafio6/obj/Debug/net7.0/Desafio6.AssemblyInfo.cs
+/home/isa/CodingTank/CodingTank/Desafio6/obj/Debug/net7.0/Desafio6.csproj.CoreCompileInputs.cache
+/home/isa/CodingTank/CodingTank/Desafio6/obj/Debug/net7.0/Desafio6.dll
+/home/isa/CodingTank/CodingTank/Desafio6/obj/Debug/net7.0/refint/Desafio6.dll
+/home/isa/CodingTank/CodingTank/Desafio6/obj/Debug/net7.0/Desafio6.pdb
+/home/isa/CodingTank/CodingTank/Desafio6/obj/Debug/net7.0/ref/Desafio6.dll
