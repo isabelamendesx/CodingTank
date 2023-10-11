@@ -1,0 +1,11 @@
+/home/isa/CodingTank/CodingTank/Desafio9/bin/Debug/net7.0/Desafio9.deps.json
+/home/isa/CodingTank/CodingTank/Desafio9/bin/Debug/net7.0/Desafio9.dll
+/home/isa/CodingTank/CodingTank/Desafio9/bin/Debug/net7.0/Desafio9.pdb
+/home/isa/CodingTank/CodingTank/Desafio9/obj/Debug/net7.0/Desafio9.GeneratedMSBuildEditorConfig.editorconfig
+/home/isa/CodingTank/CodingTank/Desafio9/obj/Debug/net7.0/Desafio9.AssemblyInfoInputs.cache
+/home/isa/CodingTank/CodingTank/Desafio9/obj/Debug/net7.0/Desafio9.AssemblyInfo.cs
+/home/isa/CodingTank/CodingTank/Desafio9/obj/Debug/net7.0/Desafio9.csproj.CoreCompileInputs.cache
+/home/isa/CodingTank/CodingTank/Desafio9/obj/Debug/net7.0/Desafio9.dll
+/home/isa/CodingTank/CodingTank/Desafio9/obj/Debug/net7.0/refint/Desafio9.dll
+/home/isa/CodingTank/CodingTank/Desafio9/obj/Debug/net7.0/Desafio9.pdb
+/home/isa/CodingTank/CodingTank/Desafio9/obj/Debug/net7.0/ref/Desafio9.dll

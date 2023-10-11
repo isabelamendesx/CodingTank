@@ -1,0 +1,11 @@
+/home/isa/CodingTank/CodingTank/Desafio12/Desafio12/bin/Debug/net7.0/Desafio12.deps.json
+/home/isa/CodingTank/CodingTank/Desafio12/Desafio12/bin/Debug/net7.0/Desafio12.dll
+/home/isa/CodingTank/CodingTank/Desafio12/Desafio12/bin/Debug/net7.0/Desafio12.pdb
+/home/isa/CodingTank/CodingTank/Desafio12/Desafio12/obj/Debug/net7.0/Desafio12.GeneratedMSBuildEditorConfig.editorconfig
+/home/isa/CodingTank/CodingTank/Desafio12/Desafio12/obj/Debug/net7.0/Desafio12.AssemblyInfoInputs.cache
+/home/isa/CodingTank/CodingTank/Desafio12/Desafio12/obj/Debug/net7.0/Desafio12.AssemblyInfo.cs
+/home/isa/CodingTank/CodingTank/Desafio12/Desafio12/obj/Debug/net7.0/Desafio12.csproj.CoreCompileInputs.cache
+/home/isa/CodingTank/CodingTank/Desafio12/Desafio12/obj/Debug/net7.0/Desafio12.dll
+/home/isa/CodingTank/CodingTank/Desafio12/Desafio12/obj/Debug/net7.0/refint/Desafio12.dll
+/home/isa/CodingTank/CodingTank/Desafio12/Desafio12/obj/Debug/net7.0/Desafio12.pdb
+/home/isa/CodingTank/CodingTank/Desafio12/Desafio12/obj/Debug/net7.0/ref/Desafio12.dll

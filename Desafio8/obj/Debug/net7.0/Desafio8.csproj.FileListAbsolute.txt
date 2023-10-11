@@ -1,0 +1,11 @@
+/home/isa/CodingTank/CodingTank/Desafio8/bin/Debug/net7.0/Desafio8.deps.json
+/home/isa/CodingTank/CodingTank/Desafio8/bin/Debug/net7.0/Desafio8.dll
+/home/isa/CodingTank/CodingTank/Desafio8/bin/Debug/net7.0/Desafio8.pdb
+/home/isa/CodingTank/CodingTank/Desafio8/obj/Debug/net7.0/Desafio8.GeneratedMSBuildEditorConfig.editorconfig
+/home/isa/CodingTank/CodingTank/Desafio8/obj/Debug/net7.0/Desafio8.AssemblyInfoInputs.cache
+/home/isa/CodingTank/CodingTank/Desafio8/obj/Debug/net7.0/Desafio8.AssemblyInfo.cs
+/home/isa/CodingTank/CodingTank/Desafio8/obj/Debug/net7.0/Desafio8.csproj.CoreCompileInputs.cache
+/home/isa/CodingTank/CodingTank/Desafio8/obj/Debug/net7.0/Desafio8.dll
+/home/isa/CodingTank/CodingTank/Desafio8/obj/Debug/net7.0/refint/Desafio8.dll
+/home/isa/CodingTank/CodingTank/Desafio8/obj/Debug/net7.0/Desafio8.pdb
+/home/isa/CodingTank/CodingTank/Desafio8/obj/Debug/net7.0/ref/Desafio8.dll

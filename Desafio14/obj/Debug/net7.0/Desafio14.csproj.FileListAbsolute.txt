@@ -1,0 +1,11 @@
+/home/isa/CodingTank/CodingTank/Desafio14/bin/Debug/net7.0/Desafio14.deps.json
+/home/isa/CodingTank/CodingTank/Desafio14/bin/Debug/net7.0/Desafio14.dll
+/home/isa/CodingTank/CodingTank/Desafio14/bin/Debug/net7.0/Desafio14.pdb
+/home/isa/CodingTank/CodingTank/Desafio14/obj/Debug/net7.0/Desafio14.GeneratedMSBuildEditorConfig.editorconfig
+/home/isa/CodingTank/CodingTank/Desafio14/obj/Debug/net7.0/Desafio14.AssemblyInfoInputs.cache
+/home/isa/CodingTank/CodingTank/Desafio14/obj/Debug/net7.0/Desafio14.AssemblyInfo.cs
+/home/isa/CodingTank/CodingTank/Desafio14/obj/Debug/net7.0/Desafio14.csproj.CoreCompileInputs.cache
+/home/isa/CodingTank/CodingTank/Desafio14/obj/Debug/net7.0/Desafio14.dll
+/home/isa/CodingTank/CodingTank/Desafio14/obj/Debug/net7.0/refint/Desafio14.dll
+/home/isa/CodingTank/CodingTank/Desafio14/obj/Debug/net7.0/Desafio14.pdb
+/home/isa/CodingTank/CodingTank/Desafio14/obj/Debug/net7.0/ref/Desafio14.dll
